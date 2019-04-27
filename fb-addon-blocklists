@@ -32,3 +32,15 @@
 0.0.0.0 our.intern.facebook.com
 0.0.0.0 pa-in.facebook.com
 0.0.0.0 phabricator.intern.facebook.com
+
+#for qq games
+0.0.0.0	sy.guanjia.qq.com
+0.0.0.0	report.syzs.qq.com
+0.0.0.0 down.qq.com
+0.0.0.0 dlied1.qq.com
+0.0.0.0 user.qzone.qq.com
+0.0.0.0 masterconn.qq.com
+0.0.0.0 masterconn11.qq.com
+0.0.0.0 sparta.qb.mig.tencent-cloud.net
+0.0.0.0 iknow.n.shifen.com  
+0.0.0.0 tgscp.mainconn.gamesafe.qq.com
